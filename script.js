@@ -1,0 +1,1 @@
+alerta('Ćomandos básicos Linux')
